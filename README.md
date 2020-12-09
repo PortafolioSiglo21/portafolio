@@ -1,6 +1,7 @@
+<img src="/logo_summit_0 (1).png" alt="My cool logo"/>
 
 #  Repositorio Portafolio de Titulo
-Sistema Gestion Tecnologica "Restaurante Siglo XXI"
+### Sistema Gestion Tecnologica "Restaurante Siglo XXI"
 
 Modulos de Software (Local/Escritorio) para la gestion del Caso n°3
 Para la obtencion del Titulo Ingeniero Informatico DuocUC Sede Plaza Oeste
@@ -16,9 +17,9 @@ ayuden a generar conocimiento relevante para el mejoramiento continuo del rendim
 negocio.
 
 # Importante
-Importar las siguientes librerias :
+Importar las siguientes librerias a los modulos:
 
 * ItexT5
 * JavaMail1.4
-* JdataChooser
+* jdatechooser
 
